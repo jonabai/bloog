@@ -1,0 +1,24 @@
+
+{
+    "bloogApp": {
+        "blog" : {
+            "home": {
+                "title": "Blogs",
+                "createLabel": "Maak een nieuwe Blog",
+                "createOrEditLabel": "Maak of wijzig een Blog"
+            },
+            "created": "A new Blog is created with identifier {{ param }}",
+            "updated": "A Blog is updated with identifier {{ param }}",
+            "deleted": "A Blog is deleted with identifier {{ param }}",
+            "delete": {
+                "question": "Bent u zeker dat u Blog {{ id }} wilt verwijderen?"
+            },
+            "detail": {
+                "title": "Blog"
+            },
+            "name": "Name",
+            "handle": "Handle",
+            "user": "User"
+        }
+    }
+}

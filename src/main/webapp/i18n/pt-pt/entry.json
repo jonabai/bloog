@@ -1,0 +1,26 @@
+
+{
+    "bloogApp": {
+        "entry" : {
+            "home": {
+                "title": "Entries",
+                "createLabel": "Criar um(a) novo(a) Entry",
+                "createOrEditLabel": "Criar ou editar um(a) Entry"
+            },
+            "created": "A new Entry is created with identifier {{ param }}",
+            "updated": "A Entry is updated with identifier {{ param }}",
+            "deleted": "A Entry is deleted with identifier {{ param }}",
+            "delete": {
+                "question": "Tem a certeza que pretende eliminar o(a) Entry {{ id }}?"
+            },
+            "detail": {
+                "title": "Entry"
+            },
+            "title": "Title",
+            "content": "Content",
+            "date": "Date",
+            "blog": "Blog",
+            "tag": "Tag"
+        }
+    }
+}
